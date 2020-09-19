@@ -12,4 +12,3 @@ const toMilitaryTime = (str) => {
 }
 
 toMilitaryTime(str);
-
