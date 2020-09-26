@@ -7,3 +7,5 @@ function boxBlur(image) {
       }
   }
 }
+
+//gonna start a new project
